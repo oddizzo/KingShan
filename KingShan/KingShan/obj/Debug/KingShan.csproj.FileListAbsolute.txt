@@ -1,0 +1,8 @@
+C:\Users\322\Pictures\KingShan\KingShan\bin\Debug\KingShan.exe.config
+C:\Users\322\Pictures\KingShan\KingShan\bin\Debug\KingShan.exe
+C:\Users\322\Pictures\KingShan\KingShan\bin\Debug\KingShan.pdb
+C:\Users\322\Pictures\KingShan\KingShan\obj\Debug\KingShan.Form1.resources
+C:\Users\322\Pictures\KingShan\KingShan\obj\Debug\KingShan.Properties.Resources.resources
+C:\Users\322\Pictures\KingShan\KingShan\obj\Debug\KingShan.csproj.GenerateResource.Cache
+C:\Users\322\Pictures\KingShan\KingShan\obj\Debug\KingShan.exe
+C:\Users\322\Pictures\KingShan\KingShan\obj\Debug\KingShan.pdb
